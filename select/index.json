@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "全力キング (TVサイズ)",
+  "base_artist": "古川貴之",
+  "createdAt": "2026-01-09T07:40:04.018624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "全力キング - TVサイズ",
+      "artist": "古川貴之",
+      "has_synced": true,
+      "path": "select/01_全力キング_-_TVサイズ_古川貴之.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全力キング (TVサイズ)",
+      "artist": "古川貴之",
+      "has_synced": false,
+      "path": "select/pl_01_全力キング_(TVサイズ)_古川貴之.txt"
+    }
+  ]
+}
